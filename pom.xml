@@ -78,7 +78,7 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>2.9.2</version>
+            <version>2.10.0</version>
         </dependency>
 <!-- 先引入下，以防本地仓库没有，后面可以删除，springfox-swagger2中会依赖此版本-->
 <!--        <dependency>-->
